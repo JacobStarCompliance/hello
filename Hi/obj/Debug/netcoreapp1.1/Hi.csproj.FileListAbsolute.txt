@@ -1,0 +1,9 @@
+C:\Users\jbusfield\Source\Repos\hello\Hi\bin\Debug\netcoreapp1.1\Hi.deps.json
+C:\Users\jbusfield\Source\Repos\hello\Hi\bin\Debug\netcoreapp1.1\Hi.runtimeconfig.json
+C:\Users\jbusfield\Source\Repos\hello\Hi\bin\Debug\netcoreapp1.1\Hi.runtimeconfig.dev.json
+C:\Users\jbusfield\Source\Repos\hello\Hi\bin\Debug\netcoreapp1.1\Hi.dll
+C:\Users\jbusfield\Source\Repos\hello\Hi\bin\Debug\netcoreapp1.1\Hi.pdb
+C:\Users\jbusfield\Source\Repos\hello\Hi\obj\Debug\netcoreapp1.1\Hi.csprojResolveAssemblyReference.cache
+C:\Users\jbusfield\Source\Repos\hello\Hi\obj\Debug\netcoreapp1.1\Hi.AssemblyInfo.cs
+C:\Users\jbusfield\Source\Repos\hello\Hi\obj\Debug\netcoreapp1.1\Hi.dll
+C:\Users\jbusfield\Source\Repos\hello\Hi\obj\Debug\netcoreapp1.1\Hi.pdb
